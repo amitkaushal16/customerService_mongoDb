@@ -1,0 +1,10 @@
+com\mindtree\repository\CustomerRepository.class
+com\mindtree\controller\CustomerController.class
+com\mindtree\model\Passport.class
+com\mindtree\exception\ServiceException.class
+com\mindtree\model\Preference.class
+com\mindtree\model\Customer.class
+com\mindtree\exception\ServiceExceptionHandler.class
+com\mindtree\model\Address.class
+com\mindtree\CustomerAppStarter.class
+com\mindtree\exception\ServiceErrorResponse.class
